@@ -1,4 +1,4 @@
-[![Build Status](C:\Users\dani\Desktop\QR\DANI\unnamed.webp)]()
+[![Build Status](https://github.com/peladillas/Contact_info/blob/main/unnamed.webp)]()
 
 ## DANIEL GUILLERMO CORTIZO PERUCH
 
