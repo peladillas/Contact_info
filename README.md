@@ -1,8 +1,21 @@
-# CONTACT INFO
-## NAME: DANIEL GUILLERMO CORTIZO PERUCH
-## PHOTO: 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
-## BLOD TYPE: A+
+[![Build Status](C:\Users\dani\Desktop\QR\DANI\unnamed.webp)]()
+
+## DANIEL GUILLERMO CORTIZO PERUCH
+
+# BLOOD TYPE:  ***A+***
+
+EMERGENCY CONTACTS NUMBERS:
+
+- [SPAIN: +34682228034 (POSSIBLE PASSENGER)](+34682228034)  FERNANDA	
+- [SPAIN: +34722128001]( +34722128001) GERMAN
+- [ARGENTINA: +5492604600031](+5492604600031) LEONARDO
+
+
+
+
+
+
+
 
 
 
